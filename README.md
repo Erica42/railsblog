@@ -1,0 +1,2 @@
+# railsblog
+playing with rails
